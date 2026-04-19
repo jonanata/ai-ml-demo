@@ -41,5 +41,5 @@ The project is divided into three distinct phases, demonstrating a transition fr
 
 ## 🚀 Quick Start (Phase 3)
 
-The production-ready predictor is located in the [Production Service](./predictor-api) directory.
+The production-ready predictor is located in the [Predictor API](./predictor-api) directory.
 
