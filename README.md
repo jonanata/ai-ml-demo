@@ -23,7 +23,7 @@ The project is divided into three distinct phases, demonstrating a transition fr
 ### Phase 3: Productionalization & Deployment
 *   **Objective:** Converting a model into a usable application.
 *   **Outcome:** Wrapped the model in a **FastAPI** server with an in-memory prediction cache for low-latency responses. The entire environment is **Dockerized** for seamless deployment.
-*   **Full Module:** [Explore the Production API](./production-service)
+*   **Full Module:** [Explore the Production API](./predictor-api)
 
 ---
 
@@ -41,5 +41,5 @@ The project is divided into three distinct phases, demonstrating a transition fr
 
 ## 🚀 Quick Start (Phase 3)
 
-The production-ready predictor is located in the [Production Service](./production-service) directory.
+The production-ready predictor is located in the [Production Service](./predictor-api) directory.
 
