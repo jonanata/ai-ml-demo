@@ -1,4 +1,4 @@
-# Traffic Accident Risk Predictor (c3 copy)
+# Traffic Accident Risk Predictor 
 
 This folder contains a copy of the predictor module and demo.
 
